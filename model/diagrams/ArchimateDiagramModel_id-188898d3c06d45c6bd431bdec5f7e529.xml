@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="test"
     id="id-188898d3c06d45c6bd431bdec5f7e529">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -14,5 +14,29 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-bf56bf2833c04d95a19347ba458bf4cd.xml#id-bf56bf2833c04d95a19347ba458bf4cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2dbce05e8e574394b25cf32872d9e957">
+    <bounds
+        x="551"
+        y="170"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-87fa43d8e8b94fcc86dfdfdcb3cb6c07.xml#id-87fa43d8e8b94fcc86dfdfdcb3cb6c07"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c387e561d2fa4278a9cc163a4db8d790">
+    <bounds
+        x="675"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInteraction"
+        href="BusinessInteraction_id-47d08c94486e4d4aaa641da796882ac3.xml#id-47d08c94486e4d4aaa641da796882ac3"/>
   </children>
 </archimate:ArchimateDiagramModel>
