@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate Viedw"
+    id="id-2eba3ad902c942ac939fe29fa38de5c5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2835d684df4b4aedb24b2f9a0b42090a">
+    <bounds
+        x="645"
+        y="174"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-73462f288230411fb1e9e1dac46f5c41.xml#id-73462f288230411fb1e9e1dac46f5c41"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-61f51d5016bf4774918e61cf5e53f6ba">
+    <bounds
+        x="449"
+        y="234"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-ebcec670c6264b12b0e967dc0a85ceef.xml#id-ebcec670c6264b12b0e967dc0a85ceef"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e6f68674b7f0467a86a8e030df80c480">
+    <bounds
+        x="407"
+        y="156"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-8e6fe9b01b9e4f0bbc3331e6b270a9e5.xml#id-8e6fe9b01b9e4f0bbc3331e6b270a9e5"/>
+  </children>
+</archimate:ArchimateDiagramModel>
